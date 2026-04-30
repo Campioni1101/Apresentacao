@@ -1,24 +1,24 @@
 # Olá, eu sou o Vitor Campioni! 👋
 
-Atualmente sou **líder de produção** em uma Refinaria de óleo e gordura, mas estou em uma jornada para mudar de área para o mundo da **Tecnologia da Informação** (TI) — e estou determinado a **conseguir**! 💻🚀
+Engenheiro Químico com mais de 4 anos de experiência em operações industriais,
+análise de dados e melhoria contínua. Atualmente atuo como **Líder de Processo**
+em refinaria de óleos e gorduras, aprofundando minha especialização em
+**Análise de Dados**, **SQL**, **Python** e **Power BI**.
 
-## Um pouco mais sobre mim:
+## Sobre mim
 
-- 💼 Experiência em liderança e gerenciamento de equipes na produção industrial.
-- 🛠️ Habilidades em análise de processos e melhoria contínua.
-- 🎯 Objetivo: Mudar para a área de TI, com foco em desenvolvimento de software e tecnologia.
-  
-## O que estou buscando:
+- 🏭 Experiência em processos industriais, KPIs, PDCA e análise de causa raiz
+- 📊 Construindo portfólio em Análise de Dados e Business Intelligence (BI)
+- 🛠️ Ferramentas: Python · SQL · Power BI · Excel Avançado
+- 📍 Ribeirão Preto / SP
 
-- 📚 Aprender novas tecnologias, ferramentas e linguagens de programação.
-- 💡 Oportunidades para aplicar o que estou aprendendo em projetos reais.
-- 🙌 Conectar-me com pessoas da área de TI que possam ajudar nesse processo de transição.
+## O que você encontra aqui
 
-**Help me with this!** 😊
+- Projetos de análise de dados com Python e SQL
+- Dashboards e visualizações com Power BI
+- Aplicações de dados em contextos pessoais (financeiro, esportes, investimentos)
 
 ---
 
-Vamos conectar?
-
-[https://www.linkedin.com/in/vitor-campioni-b025491b3/](#) | [vi_campioni@hotmail.com](#)
+[LinkedIn](https://www.linkedin.com/in/vitor-campioni-b025491b3/) | vitorcampioni1@gmail.com
 
