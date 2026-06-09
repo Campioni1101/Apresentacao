@@ -1,6 +1,4 @@
-Claro. Versão reescrita:
-
-markdown# Vitor Campioni
+# Vitor Campioni
 
 Engenheiro Químico com 4 anos em operações industriais — análise de dados,
 KPIs e melhoria contínua no dia a dia. Aqui coloco em prática o lado de
